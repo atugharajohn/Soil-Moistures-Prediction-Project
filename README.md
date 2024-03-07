@@ -1,0 +1,1 @@
+The overview of The overview of the project is to use machine learning techniques to predict soil moisture profiles at different depths from rainfall events, soil temperature, humidity, air temperature and other soil properties. The data for the project was measured with measuring instruments from different stations in the University of Hull.
